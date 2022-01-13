@@ -1,0 +1,16 @@
+/home/hoanganh/Documents/work/demoo/bin/Debug/net5.0/demoo
+/home/hoanganh/Documents/work/demoo/bin/Debug/net5.0/demoo.deps.json
+/home/hoanganh/Documents/work/demoo/bin/Debug/net5.0/demoo.runtimeconfig.json
+/home/hoanganh/Documents/work/demoo/bin/Debug/net5.0/demoo.runtimeconfig.dev.json
+/home/hoanganh/Documents/work/demoo/bin/Debug/net5.0/demoo.dll
+/home/hoanganh/Documents/work/demoo/bin/Debug/net5.0/ref/demoo.dll
+/home/hoanganh/Documents/work/demoo/bin/Debug/net5.0/demoo.pdb
+/home/hoanganh/Documents/work/demoo/obj/Debug/net5.0/demoo.csproj.AssemblyReference.cache
+/home/hoanganh/Documents/work/demoo/obj/Debug/net5.0/demoo.GeneratedMSBuildEditorConfig.editorconfig
+/home/hoanganh/Documents/work/demoo/obj/Debug/net5.0/demoo.AssemblyInfoInputs.cache
+/home/hoanganh/Documents/work/demoo/obj/Debug/net5.0/demoo.AssemblyInfo.cs
+/home/hoanganh/Documents/work/demoo/obj/Debug/net5.0/demoo.csproj.CoreCompileInputs.cache
+/home/hoanganh/Documents/work/demoo/obj/Debug/net5.0/demoo.dll
+/home/hoanganh/Documents/work/demoo/obj/Debug/net5.0/ref/demoo.dll
+/home/hoanganh/Documents/work/demoo/obj/Debug/net5.0/demoo.pdb
+/home/hoanganh/Documents/work/demoo/obj/Debug/net5.0/demoo.genruntimeconfig.cache
